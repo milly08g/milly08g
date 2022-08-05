@@ -1,3 +1,3 @@
 -I’m @milly08g
 -meu email de contato é emilly.goularte.souza@escola.pr.gov.br
--eu estou aprendendo a programar recentemente a linguagem de javascripch
+-eu estou  aprendndo a programar recentemente a  limguagem  de javaScript e scratch
